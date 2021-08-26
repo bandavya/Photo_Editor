@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Photo Editor</string>
+    <string name="grayscale">Grayscale</string>
+    <string name="gray">Gray</string>
+    <string name="todo">TODO</string>
+    <string name="upload">UPLOAD</string>
+    <string name="greyscale">GREYSCALE</string>
+    <string name="edit">EDIT</string>
+    <string name="save">SAVE</string>
+</resources>
